@@ -2,4 +2,4 @@
 
 Basic Console App
 
-Learning Proposes
+Learning Purposes
